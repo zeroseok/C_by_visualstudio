@@ -15,16 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="HelloC.c">
+    <ClCompile Include="ch1_HelloC.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Survey.c">
+    <ClCompile Include="ch2_Survey.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Building the Pyramids.c">
+    <ClCompile Include="ch3_Building the Pyramids.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="random number.c">
+    <ClCompile Include="ch4_random number.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
