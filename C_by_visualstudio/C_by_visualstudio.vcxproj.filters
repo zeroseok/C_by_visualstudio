@@ -21,5 +21,8 @@
     <ClCompile Include="Survey.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Building the Pyramids.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
