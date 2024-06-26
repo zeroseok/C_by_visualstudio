@@ -4,7 +4,7 @@
 
 int main()
 {
-	srand(time(NULL));
+	srand(time(NULL)); //srand는 난수 발생기의 시드를 설정함. 현재 시각은 실행할때마다 달라짐.
 	int num = rand() % 100 + 1;
 	printf("Correct answer : %d\n", num);
 	int answer = 0; 

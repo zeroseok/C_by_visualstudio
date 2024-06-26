@@ -27,5 +27,8 @@
     <ClCompile Include="ch4_random number.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="ch5_Function.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
